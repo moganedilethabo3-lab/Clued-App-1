@@ -1,7 +1,7 @@
 <img width="1920" height="1080" alt="Untitled (2)" src="https://github.com/user-attachments/assets/fa1cd6c8-2aad-4456-82cb-aea722345edd" />
 
 <h1> Youtube video link </h1>
-Watch the following video to understand how Clued works:
+Watch the following video to understand how Clued works: https://youtu.be/Kb-r-7KzLiU?si=rvMUxf-2fPj-CYP7
 <h1> Author </h1>
 <ul style="list-style-type: square;">
 <li>Lethabo Moganedi</li>
